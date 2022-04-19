@@ -2,7 +2,7 @@
 layout: page
 title: Hi, I'm Mostafa
 subtitle: @ the intersection of AI and Health
-cover-img: ["/assets/img/barcelona.jpg"]
+cover-img: ["/assets/img/pano.jpg"]
 ---
 <p align="justify">
 I am a master student graduate from the Unversity of Sheffield, UK.
