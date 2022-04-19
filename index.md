@@ -15,3 +15,5 @@ My Research Interests:
 - Computer Vision
 <br />
 
+<br />
+You can find my resume <a href="https://github.com/semhejazi/semhejazi.github.io/blob/master/docs/resume_github.pdf">here</a> (Updated: April 2022) 
