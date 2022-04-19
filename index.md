@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Mostafa
-subtitle: At the intersection of AI and Health
+subtitle: Currently at the Intersection of AI and Health
 cover-img: ["/assets/img/barcelona.jpg", "/assets/img/lonelytree.jpg", "/assets/img/masal.jpg", "/assets/img/masal2.jpg", "/assets/img/peakdistrict.jpg", "/assets/img/snowmountain.jpg", "/assets/img/spring.jpg", "/assets/img/sunrise.jpg", "/assets/img/sunset.jpg", "/assets/img/pano.jpg"]
 ---
 <p align="justify">
