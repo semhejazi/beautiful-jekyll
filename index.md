@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Hi, I'm Mostafa
 subtitle: About me
 cover-img: [ "/assets/img/pano.jpg", "/assets/img/milkyway.jpg", "/assets/img/mountain.jpg"]
